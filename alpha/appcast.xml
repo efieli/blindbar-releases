@@ -4,6 +4,25 @@
         <title>Blindbar</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Tue, 10 Nov 2026 10:10:42 -0300</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Blindbar 0.1.0.8</h2>
+<p>A janela de configurações agora se ajusta sozinha ao conteúdo, com uma animação que começa rápida e termina devagar. Não dá mais para redimensionar à mão, então os botões do topo nunca somem.</p>
+<p>Personalizar a Control Strip: o aviso “Não cabe tudo” usava larguras erradas. Agora usa as medidas da Control Strip real, e a faixa padrão deixa de dar o aviso.</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar-0.1.0.8.zip" length="2803836" type="application/octet-stream" sparkle:edSignature="b+h5pv7y1mK7CurhOwhodRzNTR0UNaDNAXBCEBKfySd2Dw7i3jTVz0t3+0Uy/4SRhwqpV9j2v4tEsq+WjPgqAg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar8-7.delta" sparkle:deltaFrom="7" length="190154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="HppF2nOhQQOuffHwNOIfJdiOxE4YAmWBMtgAZbVC7pT/EewxjjpGHPqayJDHzw396Bfd0o/TTCCNscfpxBKaAQ=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar8-6.delta" sparkle:deltaFrom="6" length="232150" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="uF5CVXEMRJsWZVL6BYgJPUaQ7Y06ame3WnFj5KMDR9mi3Ef/DePa4Fodb9Ify4JHOfQvNy2GoxlYIzjiJesEAQ=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar8-5.delta" sparkle:deltaFrom="5" length="338206" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="gV/5rVUlhTbO8G33AdTY5ekta5vJICSkyuKbPnOYBfvg9nqw66rALnz8tEXkXVAXZp3OyWE6/SCNoz3ZMSrtDg=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar8-3.delta" sparkle:deltaFrom="3" length="474358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="QXriTBLjGTPPu6DQ3eBRbO2SNhHw+qFDS0J1tz1WKzssrde4c1d/aq8F2inEQF9Q5/va1PeOsvhpcPrFsJfVBA=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar8-2.delta" sparkle:deltaFrom="2" length="500134" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mkqEaheuX4aDh/xcQ+nKvmsBCeyoHJOgJ/yKyhE2ISDin2T5NTAzc3S/pcs55+wG0r+w7X84J2WPMb50kqcjDw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Tue, 10 Nov 2026 09:57:17 -0300</pubDate>
             <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
