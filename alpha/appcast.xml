@@ -4,6 +4,23 @@
         <title>Blindbar</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Tue, 10 Nov 2026 09:45:42 -0300</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Blindbar 0.1.0.6</h2>
+<p>Registro de erros melhor: agora o Blindbar anota quando o Mac foi ligado, um sinal de vida a cada minuto e quando o Mac dorme ou acorda.</p>
+<p>Se o Blindbar não fechou direito, o registro diz se foi o Mac que reiniciou (queda do sistema) ou o próprio Blindbar, e aponta o relatório de panic do macOS.</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar-0.1.0.6.zip" length="2799370" type="application/octet-stream" sparkle:edSignature="bFQG0bsYiKI2/iuf+KxpxiA85U8o394ZCl26v4D8m8rSX9a1XVdBo4qgUTLxW9yc/IaTTWLS4y1ldu4SuCsJDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar6-5.delta" sparkle:deltaFrom="5" length="319790" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1bxq+GMm3vVACfdy2XG3RS8rq76EX2Gv6BrFWAA9fWZaAzJ0pBSI/RpClHtOyk6sCzC9XOilfUZ7ZHqJmRMKAw=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar6-3.delta" sparkle:deltaFrom="3" length="455542" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yIqIhS+h7FOYIl401g09jd4tojbq/lg6xJZ995Vh6inaCsT730cGD/FuQTWfF5P4gbf4wIeovMV0eeyBtXwzDA=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar6-2.delta" sparkle:deltaFrom="2" length="487110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iY7Ytpds97K2lQFvocSFJUt37vDIIO5SVuifpkBpkAyEN814GBZc33lO2JOGtic9LRqTjlUOr9+QPXvcTpo4AQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Mon, 09 Nov 2026 23:07:44 -0300</pubDate>
             <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
