@@ -4,6 +4,24 @@
         <title>Blindbar</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Tue, 10 Nov 2026 09:57:17 -0300</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Blindbar 0.1.0.7</h2>
+<p>Ajustes da Touch Bar do macOS: ao trocar “A Touch Bar mostra”, a barra do Blindbar muda na hora, antes de apertar OK.</p>
+<p>Durante essa janela de ajustes, a barra do Blindbar fica no lugar de sempre, embaixo da tela.</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar-0.1.0.7.zip" length="2802332" type="application/octet-stream" sparkle:edSignature="F/5NvYajDnP5QFkQeiXZbeXmBHHO0vVRjAhkAhT6ET5xsGhA3K9Ph4SB//YxeQBh9F0ukFQs9SKKCrgwhmYoBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar7-6.delta" sparkle:deltaFrom="6" length="217098" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KulyKdk3UNa28qZYr2IjFlwaKgIODhgudk3bciKLMkajXFKN9a7BdW+amGCfH01Bjmvp6tRaj4Lc3vjlMjIgCA=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar7-5.delta" sparkle:deltaFrom="5" length="334042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Dwbp0vH2jBsVRyBkgdIE/dqFzrigi5R4Nq6OzXv8s006Q1TrtwjMcNO5e3jn+sabM1QYzm64d6nj3LF2fobzDg=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar7-3.delta" sparkle:deltaFrom="3" length="469298" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a+Su4mQdE95VmYiMJZGoHDsDbQ0sbgxXNV3XMCtgBtVApEMjUEveCYhm+tuT1kQEwqDzrFk5G00+p5UN3qSJDg=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar7-2.delta" sparkle:deltaFrom="2" length="498778" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MIZkWMgOKJjn0dWHiV07/iZRxaz8mxmHWCSEHW34ynW/d5JwP5KvzzpBmwBj8gAh6Ii7GBX8vp/E1kNfyKy/BQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Tue, 10 Nov 2026 09:45:42 -0300</pubDate>
             <sparkle:version>6</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
