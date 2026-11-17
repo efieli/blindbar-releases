@@ -4,6 +4,25 @@
         <title>Blindbar</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Tue, 17 Nov 2026 20:45:55 -0300</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Blindbar 0.1.0.21</h2>
+<p>Teclas F1–F12 voltaram ao visual original no FL Studio: a personalização do FL Studio foi removida.</p>
+<p>Toques seguidos e rápidos continuam todos aceitos (cada toque entra numa fila e sai na ordem).</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar-0.1.0.21.zip" length="2881917" type="application/octet-stream" sparkle:edSignature="KfUh/yBThT4t3qvYRIFC7OJd6H9W4M80oGMl8RnNpgSm/UL628DrxnsLsuArckqayIJy3aDo0dUIAJHw7zdHDg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar21-19.delta" sparkle:deltaFrom="19" length="162358" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dG+dgL8IwbQpYsUI5DeCF+1xY63f9CQADeeFUR4+CV2JKUglQ1UV/3H02p/PnOrvAjANHM3mmWPKJytCuuVKBw=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar21-18.delta" sparkle:deltaFrom="18" length="234106" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UNvsAnqA5AP+S6lBfR89YHu1YqgG8kObwqrLWbapKORgP1E8qiwYSnXkCQtAXwLieBC1eWR9K4sJDuUSUqjQCA=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar21-8.delta" sparkle:deltaFrom="8" length="426286" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="LrR2uGttg524k0gHGNcZHMp0LFUHvdl512ou160vKcuD+MNqVMqXrgJLOxJDni1NEUkZzmKoyyBWhxY2GCrwDg=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar21-7.delta" sparkle:deltaFrom="7" length="429958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6WppgG7c04wMnEM753lgQ2hKwddK75pAUD0YcZgHHY3g8p10eMZsFalwEot1mwRfJNZ6W6x/TdpZG56sc4hQCA=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar21-6.delta" sparkle:deltaFrom="6" length="443414" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1pmmkxkl5hZmuY9jE45YUCW5r/NsaLW4Cr3LQ3tGDPyBYNIYdIx8AUedLKZpblth5uUsZYE3yF2zCzacb2KpAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Tue, 17 Nov 2026 20:34:11 -0300</pubDate>
             <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
