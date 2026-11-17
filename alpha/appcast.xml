@@ -4,6 +4,24 @@
         <title>Blindbar</title>
         <item>
             <title>0.1.0</title>
+            <pubDate>Tue, 17 Nov 2026 20:34:11 -0300</pubDate>
+            <sparkle:version>19</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Blindbar 0.1.0.19</h2>
+<p>Toques seguidos e rápidos agora são todos aceitos (por exemplo, apertar várias vezes o F2 para renomear no FL Studio). Antes, um toque que chegava com o anterior ainda apertado era ignorado; agora cada toque entra numa fila e sai na ordem.</p>
+]]></description>
+            <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar-0.1.0.19.zip" length="2883873" type="application/octet-stream" sparkle:edSignature="iIn55s1et/HfeRO1urhTVflT1qDWOLc0ieCQ93Lxc97veuuQqqgdwu5FtyEbJnTdQu6U3dzyfinCwxlg1QqNCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar19-18.delta" sparkle:deltaFrom="18" length="229850" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="BDaBiYinddpGTrBDMuSPuWDkucrEmhQf70H9DlsgCTlwJfcIGvevHbfk0eThLUqK+HQgnFX0s2ZJjq5ooZbTBg=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar19-8.delta" sparkle:deltaFrom="8" length="431210" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="E8O0AstGwfh/Oya+8m0dgJuhySNyth1bMfXvDcC3Aws3Uvh50F8wXzl84vi1wXcoTT+nQPFUgu3s8zpdbMpACQ=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar19-7.delta" sparkle:deltaFrom="7" length="433954" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="n364OT4QMZUAakSj0BdXN6U8tIPcVOOLDBlHnkDwMYQbkG8acUFOoxIMZ5KJA9W37UXIflPhXPYlGrsFvr3CAg=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar19-6.delta" sparkle:deltaFrom="6" length="441478" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iZ9B9eJIe1aoSJg+MC4OFA4/wn9m40Y6+fcUZ7g7CBGNA1IOpUGoqW4KNdAaeMCp6RrWVGZSKCOKDV3xkf0SDA=="/>
+                <enclosure url="https://efieli.github.io/blindbar-releases/alpha/Blindbar19-5.delta" sparkle:deltaFrom="5" length="483154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YyeI4fb4Jzn/bLFNxONc9gN6+wBj9RCY8QSMEF2mOaZOE7WktLrud7LIUEgx80EwtuC/GD5wrj9Jka4coMx8Dw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>0.1.0</title>
             <pubDate>Tue, 17 Nov 2026 09:50:20 -0300</pubDate>
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
